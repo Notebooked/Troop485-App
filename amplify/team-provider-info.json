@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-troop485app-staging-15548-authRole",
+      "UnauthRoleArn": "arn:aws:iam::630936440046:role/amplify-troop485app-staging-15548-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::630936440046:role/amplify-troop485app-staging-15548-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-troop485app-staging-15548-deployment",
+      "UnauthRoleName": "amplify-troop485app-staging-15548-unauthRole",
+      "StackName": "amplify-troop485app-staging-15548",
+      "StackId": "arn:aws:cloudformation:us-west-1:630936440046:stack/amplify-troop485app-staging-15548/eaa30410-024e-11ed-b85d-06b63fcdef71",
+      "AmplifyAppId": "d22yla6xs9po7a"
+    }
+  }
+}
