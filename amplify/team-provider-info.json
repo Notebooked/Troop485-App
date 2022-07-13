@@ -10,6 +10,17 @@
       "StackName": "amplify-troop485app-staging-15548",
       "StackId": "arn:aws:cloudformation:us-west-1:630936440046:stack/amplify-troop485app-staging-15548/eaa30410-024e-11ed-b85d-06b63fcdef71",
       "AmplifyAppId": "d22yla6xs9po7a"
+    },
+    "categories": {
+      "auth": {
+        "Troop485App": {}
+      },
+      "storage": {
+        "troop485app57758268": {
+          "bucketName": "s3buckett48544000-main",
+          "region": "us-west-1"
+        }
+      }
     }
   }
 }
